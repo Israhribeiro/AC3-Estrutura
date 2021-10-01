@@ -1,4 +1,4 @@
-package TADPilhaArray;
+package Array;
 
 @SuppressWarnings("serial")
 public class FullStackException extends RuntimeException {

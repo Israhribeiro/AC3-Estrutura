@@ -1,4 +1,6 @@
-package TADPilhaArray;
+package Array;
+
+import Array.EmptyStackException;
 
 public interface Stack<E> {
 

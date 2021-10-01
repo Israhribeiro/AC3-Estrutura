@@ -1,5 +1,9 @@
 package TADPilhaArray;
 
+import Array.EmptyStackException;
+import Array.FullStackException;
+import Array.Stack;
+
 public class ArrayStack<E> implements Stack<E> {
     protected int capacity;
     public static final int CAPACITY = 1000;

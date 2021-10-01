@@ -1,4 +1,4 @@
-package TADPilhaArray;
+package Array;
 
 @SuppressWarnings("serial")
 public class EmptyStackException extends RuntimeException {

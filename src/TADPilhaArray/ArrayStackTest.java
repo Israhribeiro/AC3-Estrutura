@@ -2,6 +2,9 @@ package TADPilhaArray;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
+
+import Array.EmptyStackException;
+import Array.FullStackException;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
