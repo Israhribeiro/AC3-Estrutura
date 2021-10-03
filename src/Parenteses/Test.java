@@ -9,11 +9,11 @@ class TestParentese {
        String expressao = "{()}";
 //       String expressao = "{{[()]}}";
 //       String expressao = "{}";
-//        String expressao = "{(){}";
+//       String expressao = "{(){}";
 //        String expressao = "{(})}";
 //        String expressao = "{1+(2*3)}";
           //String expressao = "{([)}";
-        Entrada entrada = new Entrada(expressao);
+        Parenteses entrada = new Parenteses(expressao);
         assertEquals(true, entrada.validarFormacao());
 
 
