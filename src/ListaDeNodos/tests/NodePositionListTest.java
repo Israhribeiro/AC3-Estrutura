@@ -1,11 +1,11 @@
-package tests;
+package ListaDeNodos.tests;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 import org.junit.jupiter.api.Test;
-import source.NodePositionList;
-import source.Position;
+import ListaDeNodos.source.NodePositionList;
+import ListaDeNodos.source.Position;
 
 public class NodePositionListTest {
     @Test

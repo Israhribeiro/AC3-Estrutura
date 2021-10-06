@@ -1,8 +1,8 @@
-package source;
+package ListaDeNodos.source;
 
 import java.util.Iterator;
 
-public class NodePositionList <E> implements PositionList<E> {
+public class NodePositionList<E> implements PositionList<E> {
     protected int numElts;
     protected DNode<E> header, trailer;
 
