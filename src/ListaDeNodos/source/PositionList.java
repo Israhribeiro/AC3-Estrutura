@@ -1,7 +1,6 @@
 package ListaDeNodos.source;
 
 import java.util.Iterator;
-import java.util.Iterator;
 
 public interface PositionList<E> extends Iterable<E>{
     public int size();
